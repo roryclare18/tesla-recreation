@@ -1,0 +1,161 @@
+* {
+    font-family: "Poppins";
+}
+
+header {
+    height: 7vh;
+    width: 94%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.model3 {
+    background: url("model3bg.avif");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.modely {
+    background: url("modelybg.avif");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.modelx {
+    background: url("modelxbg.avif");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.models {
+    background: url("modelsbg.avif");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.modelcyber {
+    background: url("modelcyberbg.avif");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.solarpanels {
+    background: url("solarpanelbg.avif");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.solarroof {
+    background: url("solarroofbg.avif");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.powerwall {
+    background: url("solarroofbg.avif");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.accessories {
+    background: url("accessoriesbg.avif");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px;
+
+}
+
+.toptext {
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: flex-start
+}
+
+.bottombuttons {
+    width: 100%;
+    height: 68vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 10px;
+}
+
+.orderButton {
+    background-color: rgb(0, 115, 255);
+    color: white;
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.demoButton {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.cybertext {
+    font-family: 'The Battle Continuez';
+}
+
+.orderButtonCyber {
+    background-color: rgb(40, 41, 42);
+    color: rgb(159, 159, 159);
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.demoButtonCyber {
+    background-color: rgb(40, 41, 42);
+    color: rgb(159, 159, 159);
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+}
